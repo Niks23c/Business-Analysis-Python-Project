@@ -89,6 +89,7 @@ Bar charts: Contract Type vs Churn Rate
 ![Churn CONTRACT](images/Contract.JPG) ← 
 
 Heatmap of feature correlations
+
 ![Churn CONTRACT](images/Feature.JPG) ← 
 
 
