@@ -75,13 +75,17 @@ Improve customer support for high-risk groups (e.g. senior citizens)
 Incentivize online auto-pay methods to reduce churn
 
 ## 📊 Highlighted Visuals
+
 Churn distribution pie chart
+
 ![Churn pie](images/customerchurn.JPG) ← 
 
 Boxplots: Monthly Charges vs Churn
+
 ![Churn BOX](images/Monthly.JPG) ← 
 
 Bar charts: Contract Type vs Churn Rate
+
 ![Churn CONTRACT](images/Contract.JPG) ← 
 
 Heatmap of feature correlations
