@@ -135,7 +135,7 @@ classification models comparison
 ---
 
 ## 🖥 Tech Stack
-- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+- **Python**: `pandas`, `numpy`, `Plotly`, `matplotlib`, `seaborn`, `scikit-learn`
 - **Jupyter Notebook**
 - **Data Visualization**: Matplotlib & Seaborn
 - **Machine Learning Models**: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting
