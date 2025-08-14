@@ -58,6 +58,11 @@ Correlation heatmaps to identify strong relationships
 
 Visualized key patterns influencing customer churn
 
+### 4️⃣ Customer Segmentation
+- Created **tenure groups** (0–12 months, 13–24, etc.).
+- Segmented by service usage and payment preferences.
+- Visualized churn by each segment using pie and bar charts.
+
 ## 🧠 Business Insights
 Customers on month-to-month contracts had higher churn rates
 
@@ -93,4 +98,41 @@ Heatmap of feature correlations
 ![Churn CONTRACT](images/Feature.JPG) ← 
 
 
+### 5️⃣ Predictive Modeling
+Tested and compared multiple classification models:
 
+| Model                  | Accuracy |
+|------------------------|----------|
+| Logistic Regression    | **0.7991** |
+| Decision Tree          | 0.7374 |
+| Random Forest          | 0.7842 |
+| Gradient Boosting      | **0.7991** |
+
+**Best Models:** Logistic Regression & Gradient Boosting (both at 79.91% accuracy).  
+Logistic Regression was chosen for interpretability, while Gradient Boosting provided competitive predictive performance.
+
+---
+
+## 📈 Key Insights
+- **Short-tenure customers** have the highest churn rate.
+- **Month-to-month contracts** and **electronic check payments** are strong churn indicators.
+- Customers without **tech support** or **online security** are more likely to churn.
+- Higher **monthly charges** correlate with higher churn risk.
+
+---
+
+## 💡 Business Recommendations
+1. **Promote long-term contracts** to new customers.
+2. Offer **bundled services** (internet + TV + tech support) at a discount.
+3. Target **high-risk customers** with loyalty incentives.
+4. Improve **customer support touchpoints** for month-to-month customers.
+
+---
+
+## 🖥 Tech Stack
+- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+- **Jupyter Notebook**
+- **Data Visualization**: Matplotlib & Seaborn
+- **Machine Learning Models**: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting
+
+---
