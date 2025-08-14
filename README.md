@@ -115,7 +115,7 @@ Logistic Regression was chosen for interpretability, while Gradient Boosting pro
 
 classification models comparison
 
-![Best Models](images/churn_visualsmodel_comparison.PNG) ← 
+![Best Models](images/churn_visualsmodel_comparison.png) ← 
 
 
 ## 📈 Key Insights
