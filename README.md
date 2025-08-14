@@ -113,6 +113,11 @@ Logistic Regression was chosen for interpretability, while Gradient Boosting pro
 
 ---
 
+classification models comparison
+
+![Churn CONTRACT](images/churn_visualsmodel_comparison.png.PNG) ← 
+
+
 ## 📈 Key Insights
 - **Short-tenure customers** have the highest churn rate.
 - **Month-to-month contracts** and **electronic check payments** are strong churn indicators.
